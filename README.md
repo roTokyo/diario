@@ -11,7 +11,8 @@ Senza nessuna pretesa annoto alcuni eventi.
  - [License Selector](https://ufal.github.io/public-license-selector/)
 
 ### Special Credits  
-I manipulated, adding functionality that suited may needs, the «[Brume](http://jekyllthemes.org/themes/brume/)» theme. So give to the creator credit on Twitter [@aigarsdz](http://twitter.com/aigarsdz).
+- Theme «[Brume](http://jekyllthemes.org/themes/brume/)» creator on Twitter [@aigarsdz](http://twitter.com/aigarsdz).
+- [ © **Images Lazy Load**](https://github.com/craigbuckler/progressive-image.js)
 
 ###### License
 [![LICENSE](https://img.shields.io/badge/Personal%20Data%20Protected%20by%3A-EU%20GDPR%20Law-orange)](https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/index_en.htm)   [![LICENSE](https://img.shields.io/badge/roTokyo%20pictures-CC--BY--NC--ND%204.0-orange)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
